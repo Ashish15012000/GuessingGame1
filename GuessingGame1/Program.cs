@@ -10,8 +10,6 @@ class PlayAndWin
             GeneratorNumber numberGenerator = new RandomNumberGenerator();
 
             Game game = new Game(numberGenerator);
-            
-            Console.WriteLine("Welcome to the Guessing Game!");
 
             Console.WriteLine("Enter the amount of money to bet:");
             int moneyToBet = int.Parse(Console.ReadLine());
