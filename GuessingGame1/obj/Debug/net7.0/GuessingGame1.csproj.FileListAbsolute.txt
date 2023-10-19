@@ -1,0 +1,14 @@
+/home/ashish/GuessingGame1/GuessingGame1/bin/Debug/net7.0/GuessingGame1
+/home/ashish/GuessingGame1/GuessingGame1/bin/Debug/net7.0/GuessingGame1.deps.json
+/home/ashish/GuessingGame1/GuessingGame1/bin/Debug/net7.0/GuessingGame1.runtimeconfig.json
+/home/ashish/GuessingGame1/GuessingGame1/bin/Debug/net7.0/GuessingGame1.dll
+/home/ashish/GuessingGame1/GuessingGame1/bin/Debug/net7.0/GuessingGame1.pdb
+/home/ashish/GuessingGame1/GuessingGame1/obj/Debug/net7.0/GuessingGame1.GeneratedMSBuildEditorConfig.editorconfig
+/home/ashish/GuessingGame1/GuessingGame1/obj/Debug/net7.0/GuessingGame1.AssemblyInfoInputs.cache
+/home/ashish/GuessingGame1/GuessingGame1/obj/Debug/net7.0/GuessingGame1.AssemblyInfo.cs
+/home/ashish/GuessingGame1/GuessingGame1/obj/Debug/net7.0/GuessingGame1.csproj.CoreCompileInputs.cache
+/home/ashish/GuessingGame1/GuessingGame1/obj/Debug/net7.0/GuessingGame1.dll
+/home/ashish/GuessingGame1/GuessingGame1/obj/Debug/net7.0/refint/GuessingGame1.dll
+/home/ashish/GuessingGame1/GuessingGame1/obj/Debug/net7.0/GuessingGame1.pdb
+/home/ashish/GuessingGame1/GuessingGame1/obj/Debug/net7.0/GuessingGame1.genruntimeconfig.cache
+/home/ashish/GuessingGame1/GuessingGame1/obj/Debug/net7.0/ref/GuessingGame1.dll
